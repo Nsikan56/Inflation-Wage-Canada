@@ -9,8 +9,6 @@ An interactive data visualization dashboard tracking the relationship between in
 
 ![Dashboard Preview](./Dashboard.png)
 
-📄 [Download the full dashboard PDF](./Visuals/Inflation_Wage_Analysis.pdf)
-
 ## 📥 How to View the Dashboard
 
 Due to hosting limitations, this Power BI dashboard was not published online.
