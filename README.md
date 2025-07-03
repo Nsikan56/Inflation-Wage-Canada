@@ -4,6 +4,13 @@
 
 An interactive data visualization dashboard tracking the relationship between inflation and wage growth across Canada over 15 years. Highlights include affordability trends, gaps, and cumulative insights using public data from Statistics Canada.
 
+
+## 📊 Dashboard Preview
+
+![Dashboard Preview](./Dashboard.png)
+
+📄 [Download the full dashboard PDF](./Visuals/Inflation_Wage_Analysis.pdf)
+
 ## 📥 How to View the Dashboard
 
 Due to hosting limitations, this Power BI dashboard was not published online.
