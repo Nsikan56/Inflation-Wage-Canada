@@ -7,7 +7,7 @@ An interactive data visualization dashboard tracking the relationship between in
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](./Dashboard.png)
+![Dashboard Preview](./Dashboard-Preview.png)
 
 ## 📥 How to View the Dashboard
 
