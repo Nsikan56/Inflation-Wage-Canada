@@ -10,7 +10,7 @@ Due to hosting limitations, this Power BI dashboard was not published online.
 
 To explore the interactive dashboard:
 
-1. Download the `.pbix` file: [`InflationWage_Canada.pbix`](./Inflation_Wage_Dashboard.pbix)
+1. Download the `.pbix` file: [`InflationWage_Canada.pbix`](./Powerbi/Inflation_Wage_Dashboard.pbix)
 2. Open it in the free [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 
 ---
